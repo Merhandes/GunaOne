@@ -1,0 +1,69 @@
+body {
+	background-color: #0D7894;
+}
+#wrapper {
+	width: 980px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#wrapper #header {
+	background-color: #19456b;
+	float: left;
+	height: 150px;
+	width: 980px;
+}
+#wrapper #header .logo {
+	background-color: #19456b; 
+	padding: 5px;
+	float: left;
+	height: 100px;
+	width: 170px;
+}
+#wrapper #header .banner {
+	font-family: Arial;
+	font-size: 140%;
+	padding: 10px;
+	float: left;
+	height: 100px;
+	width: 780px;
+}
+#wrapper #menu {
+	background-color: #039;
+	padding: 5px;
+	float: left;
+	width: 970px;
+}
+#wrapper #content {
+	background-color: #f8f1f1;
+	float: left;
+	min-height: 200px;
+	width: 970px;
+	padding: 5px;
+}
+#wrapper #content .left-menu {
+	Font-Family: Arial;
+	color: white;
+	background-color: #16c79a;
+	padding: 5px;
+	float: left;
+	width: 170px;
+	min-height: 200px;
+}
+#wrapper #content .page {
+	font-family: Arial;
+	color: black;
+	padding: 5px;
+	float: left;
+	width: 780px;
+}
+#wrapper #footer {
+	font-family: Arial;
+	color: white;
+	background-color: #16c79a;
+	padding: 5px;
+	float: left;
+	width: 970px;
+	text-align: center;
+}
