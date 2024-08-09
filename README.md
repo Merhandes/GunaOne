@@ -1,5 +1,5 @@
 URL : https://merhandes.github.io/GunaOne/index.html
-SMAK Penabur Harapan Indah
+<br />SMAK Penabur Harapan Indah
 <br />This Website Made By
 <br />Orvis Lutanora XIA3/27
 <br />Merhandes Gunawan XIA3/22
